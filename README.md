@@ -23,3 +23,7 @@ Using lsblk utility to view the newly configured partition on each of the 3 disk
 Verify that your Physical volume has been created successfully by running sudo pvs
 
 ![text3](https://user-images.githubusercontent.com/108102087/184542885-b22301b4-b84a-46d1-b7b5-09c8c79d438b.PNG)
+
+Verify that your VG has been created successfully by running sudo vgs
+
+![text4](https://user-images.githubusercontent.com/108102087/184543377-5791d7ce-a6f1-4bf5-a77d-2de98cd73cf7.PNG)
