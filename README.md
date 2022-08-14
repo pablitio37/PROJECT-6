@@ -27,3 +27,7 @@ Verify that your Physical volume has been created successfully by running sudo p
 Verify that your VG has been created successfully by running sudo vgs
 
 ![text4](https://user-images.githubusercontent.com/108102087/184543377-5791d7ce-a6f1-4bf5-a77d-2de98cd73cf7.PNG)
+
+Verify that your Logical Volume has been created successfully by running sudo lvs
+
+![text5](https://user-images.githubusercontent.com/108102087/184543927-c98403a6-821b-456d-8024-9dcd5e12eb1f.PNG)
