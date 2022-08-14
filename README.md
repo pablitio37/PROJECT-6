@@ -31,3 +31,7 @@ Verify that your VG has been created successfully by running sudo vgs
 Verify that your Logical Volume has been created successfully by running sudo lvs
 
 ![text5](https://user-images.githubusercontent.com/108102087/184543927-c98403a6-821b-456d-8024-9dcd5e12eb1f.PNG)
+
+Verifying the entire setup
+
+![text6](https://user-images.githubusercontent.com/108102087/184544428-5d70f2b9-7db6-4d78-beb6-d7204f966b39.PNG)
