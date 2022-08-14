@@ -15,3 +15,11 @@ Step 1 — Prepare a Web Server
 Launch an EC2 instance that will serve as "Web Server". Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
 
 ![text1](https://user-images.githubusercontent.com/108102087/184541329-da4de1d5-9fe2-409c-bacc-5c406fed9b9a.PNG)
+
+Using lsblk utility to view the newly configured partition on each of the 3 disks.
+
+![text2](https://user-images.githubusercontent.com/108102087/184542211-8e2410cb-72ff-4c43-a027-4e4c2eb73aa1.PNG)
+
+Verify that your Physical volume has been created successfully by running sudo pvs
+
+![text3](https://user-images.githubusercontent.com/108102087/184542885-b22301b4-b84a-46d1-b7b5-09c8c79d438b.PNG)
