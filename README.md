@@ -35,3 +35,12 @@ Verify that your Logical Volume has been created successfully by running sudo lv
 Verifying the entire setup
 
 ![text6](https://user-images.githubusercontent.com/108102087/184544428-5d70f2b9-7db6-4d78-beb6-d7204f966b39.PNG)
+
+UPDATE THE `/ETC/FSTAB` FILE
+The UUID of the device will be used to update the /etc/fstab file; Test the configuration and reload the daemon
+
+![text1](https://user-images.githubusercontent.com/108102087/185744562-fbd29a8e-e099-48dc-9a48-c7730ec1eca8.PNG)
+
+Verify your setup by running df -h
+
+![text2](https://user-images.githubusercontent.com/108102087/185744708-6bd62ea6-1453-4bfc-947f-f636d31e6fde.PNG)
