@@ -44,3 +44,7 @@ The UUID of the device will be used to update the /etc/fstab file; Test the conf
 Verify your setup by running df -h
 
 ![text2](https://user-images.githubusercontent.com/108102087/185744708-6bd62ea6-1453-4bfc-947f-f636d31e6fde.PNG)
+
+the database as been mounted
+
+![text3](https://user-images.githubusercontent.com/108102087/185746116-d807d0b0-bc28-4a0b-bd3d-ed942934f304.PNG)
