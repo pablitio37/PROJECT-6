@@ -54,3 +54,9 @@ To install PHP and it’s depemdencies
 ![text4](https://user-images.githubusercontent.com/108102087/185751428-3d32e9a6-7d51-4476-8813-c6f69eb46244.PNG)
 
 Configure DB to work with WordPress and Configure WordPress to connect to remote database
+
+![text5](https://user-images.githubusercontent.com/108102087/186974535-db917a8a-8780-4981-8d24-d27b6a690ce9.PNG)
+
+![text6](https://user-images.githubusercontent.com/108102087/186974657-42097ffc-32c3-479f-95e7-dbe0d410d509.PNG)
+
+![text7](https://user-images.githubusercontent.com/108102087/186974715-c6586dfc-8c4c-4957-9b53-4dc10e477318.PNG)
