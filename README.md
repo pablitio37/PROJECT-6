@@ -52,3 +52,5 @@ the database as been mounted
 To install PHP and it’s depemdencies
 
 ![text4](https://user-images.githubusercontent.com/108102087/185751428-3d32e9a6-7d51-4476-8813-c6f69eb46244.PNG)
+
+Configure DB to work with WordPress and Configure WordPress to connect to remote database
